@@ -1,9 +1,9 @@
 <div align="center" style="margin: 20px 0; padding: 10px; background: #111; border-radius: 8px;">
   <span style="color: #666; margin: 0 10px;">Full-Stack Development</span>
   |
-  <span style="color: #fff; margin: 0 10px;">Go Backend</span>
+  <span style="color: #fff; margin: 0 10px;">Node, Go Backend</span>
   |
-  <span style="color: #666; margin: 0 10px;">SaaS Architecture</span>
+  <span style="color: #666; margin: 0 10px;">Next.js, TS Frontend</span>
 </div>
 
 <div align="center">
