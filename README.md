@@ -8,8 +8,8 @@
 
 <div align="center">
   <h2>
-    Hi, I'm <span style="color:#ffffff;">[Your Name]</span><br>
-    Full-Stack Engineer • Go (Fiber) • TypeScript • Next.js
+    Hi, I'm <span style="color:#ffffff;">Tome</span><br>
+    Software Developer • Go (Fiber) • TypeScript • Next.js
   </h2>
   <h4>Building scalable SaaS platforms and real-time data solutions</h4>
 </div>
