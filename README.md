@@ -80,7 +80,7 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tome888&show_icons=true&theme=dark&bg_color=000&hide_border=true&title_color=fff&text_color=aaa" alt="Tome's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tome888&theme=dark&background=000000&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
