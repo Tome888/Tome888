@@ -78,7 +78,9 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator">
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tome888&theme=dark&background=000000&hide_border=true&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+</div>
 <p align="center">
   <small>2026 • North Macedonia</small>
 </p>
