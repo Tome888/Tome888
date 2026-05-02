@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px" alt="separator">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator">
 </div>
 
 <a id="profile"></a>
@@ -57,7 +57,7 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 | **Clinic Software** | Developer | TypeScript, NestJS, PostgreSQL |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px" alt="separator">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator">
 </div>
 
 <a id="stack"></a>
