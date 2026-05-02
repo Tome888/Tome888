@@ -36,8 +36,9 @@
 I am a software engineer specializing in modern web ecosystems, currently focused on the transition from Node.js to **Go (Fiber)** for high-concurrency backend services. I build products that leverage real-time data and self-hosted infrastructure.
 
 - **SaaS Development:** Architecting the "Wait Less" platform for real-time restaurant ordering.
-- **Open Source:** Maintaining authentication utilities and community-focused visualization tools.
-- **Backend Migration:** Focused on Go for performance-critical API handlers and real-time voting systems.
+- **Clinic Software** – Collaborated on a management suite for healthcare providers.
+- **Municipality Platform:** Currently developing a digital platform for local government services to streamline community interaction.
+- **Leveling Up:** Deep-diving into **Golang** and migrating my performance-critical systems to the Go ecosystem.
 
 <a id="projects"></a>
 
@@ -45,10 +46,11 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 
 | Project | Role | Technologies |
 | :--- | :--- | :--- |
-| **Wait Less** | Lead Developer | Next.js, Go (Fiber), Supabase, Real-time |
-| **TAuth-Express** | Author | Node.js, JWT, NPM Package |
-| **Strumica 360** | Developer | JavaScript, Pannellum, Leaflet |
-| **Real-time Voting** | Lead Developer | Go, Fiber, SQLite |
+| **Wait Less** | Lead Developer | Next.js, Supabase, Real-time |
+| **Municipality Software** | Developer | JavaScript, Pannellum, Leaflet |
+| **Clinic Software** | Developer | TypeScript | Nest.JS | PostgreSQL |
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px" alt="separator">
@@ -60,7 +62,7 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 
 **Backend:** Go (Fiber), Node.js, Express, NestJS, JWT Auth, REST APIs.  
 **Frontend:** TypeScript, React, Next.js, Tailwind CSS.  
-**Database & Infrastructure:** Supabase (PostgreSQL), SQLite, Redis, Docker, VPS (Coolify/Dokploy).
+**Database & Infrastructure:** Supabase (PostgreSQL), SQLite, Docker, VPS (Coolify/Dokploy).
 
 <a id="experience"></a>
 
@@ -68,7 +70,6 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 
 - **Scalable Architecture:** Designing modular backends with a focus on type safety and clear separation of concerns.
 - **Real-time Systems:** Implementing WebSockets and real-time database syncing for interactive user experiences.
-- **Tooling:** Creating reusable NPM packages and project templates to streamline the development lifecycle.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator">
@@ -79,5 +80,5 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
 </div>
 
 <p align="center">
-  <small>2026 • Strumica, North Macedonia</small>
+  <small>2026 • North Macedonia</small>
 </p>
