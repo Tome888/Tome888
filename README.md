@@ -79,25 +79,6 @@ I am a software engineer specializing in modern web ecosystems, currently focuse
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tome888&theme=dark&background=000000&hide_border=true&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tome888&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tome888&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Langs" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tome888&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tome888&theme=2021_dark" alt="Profile Details" />
-</div>
-<div align="center">
-  <img src="https://metrics.lecoq.io/Tome888?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FSkopje" alt="Metrics" />
-</div>
-
 <p align="center">
   <small>2026 • North Macedonia</small>
 </p>
