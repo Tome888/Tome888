@@ -39,7 +39,7 @@
 
 ## Short Profile
 
-I am a software engineer specializing in modern web ecosystems, currently focused on the transition from Node.js to **Go (Fiber)** for high-concurrency backend services. I build products that leverage real-time data and self-hosted infrastructure.
+I am a software developer specializing in modern web ecosystems, currently focused on the transition from Node.js to **Go (Fiber)** for high-concurrency backend services. I build products that leverage real-time data and self-hosted infrastructure.
 
 - **SaaS Development:** Architecting the "Wait Less" platform for real-time restaurant ordering.
 - **Clinic Software:** Collaborated on a management suite for healthcare providers.
